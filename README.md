@@ -1,2 +1,2 @@
-# CPU
-CPU scheduling using threads 
+# CPU scheduling using threads 
+Operating Systems course project 
